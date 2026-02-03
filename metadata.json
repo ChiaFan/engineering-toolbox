@@ -1,0 +1,7 @@
+{
+  "name": "Raiden Engineering Toolbox",
+  "description": "A comprehensive industrial testing suite featuring COM Port (Web Serial), Modbus protocol testing, and Socket (TCP/UDP) simulation tools with built-in authentication.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
